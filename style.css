@@ -1,0 +1,22 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.name{
+    color:goldenrod;
+}
+#hire{
+    background-color:orangered;
+    size: 50em;
+    font-size:x-large;
+    margin: 50px;
+}
+.pashapashi{
+    width:40%;
+    float: left;
+    margin-left: 5%;
+    
+    padding:2%
+}
+.pashapashi img{
+    width:90%;
+}
